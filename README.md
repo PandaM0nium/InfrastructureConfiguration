@@ -1,1 +1,1 @@
-# InfrastructureConfiguration
+# Microsoft Endpoint Manager Configuration
