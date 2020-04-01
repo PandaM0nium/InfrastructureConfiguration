@@ -1,0 +1,18 @@
+SUName,CollName,DeploymentName,DeployType,AvailableDate,DeadlineDate,RestartSer,RestartWrk,MWInstall,MWRestart
+All Servers - 2016,Testing - Fast ring,All Servers - 2016 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2017,Testing - Fast ring,All Servers - 2017 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2018,Testing - Fast ring,All Servers - 2018 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2019,Testing - Fast ring,All Servers - 2019 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 01,Testing - Fast ring,All Servers - 2020 - 01 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 02,Testing - Fast ring,All Servers - 2020 - 02 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 03,Testing - Fast ring,All Servers - 2020 - 03 - Fast ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2013,Operation - slow ring,All Servers - 2013 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2014,Operation - slow ring,All Servers - 2014 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2015,Operation - slow ring,All Servers - 2015 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2016,Operation - slow ring,All Servers - 2016 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2017,Operation - slow ring,All Servers - 2017 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2018,Operation - slow ring,All Servers - 2018 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2019,Operation - slow ring,All Servers - 2019 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 01,Operation - slow ring,All Servers - 2020 - 01 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 02,Operation - slow ring,All Servers - 2020 - 02 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
+All Servers - 2020 - 03,Operation - slow ring,All Servers - 2020 - 03 - Slow ring,Required,3/5/2020 5:00PM,3/5/2020 5:00PM,TRUE,FALSE,TRUE,TRUE
